@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="public/pwa-512x512.png" alt="Klyven Auto Logo" width="120" />
-</p>
+
 
 <h1 align="center">🚗 Klyven Auto</h1>
 
